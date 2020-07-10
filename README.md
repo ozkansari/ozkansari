@@ -5,7 +5,7 @@ Hello, this is **Ozkan Sari**. Long story short, I'm a **software engineer** liv
 - 💼 Check my Professional profile on [Linkedin](https://www.linkedin.com/in/ozkansari/)
 - 👷 View my developer profile on [Sourcerer](https://sourcerer.io/ozkansari) and [Codersrank](https://profile.codersrank.io/user/ozkansari)
 - 📚 I'ma a life-long learner. See my student profile on [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari) and [Hackerrank](https://www.hackerrank.com/ozkansari/) and [Topcoder](https://www.topcoder.com/members/ozkansari)
-- 🐦 See my (tweets)[https://twitter.com/ozkan_sari]
+- 🐦 See my [tweets](https://twitter.com/ozkan_sari)
 
 I have experience in designing and building highly available systems and adapting new technologies. I have 9 years of Payments Industry Experience.  I’m an Automation, Continuous Integration and Agile enthusiast. I believe in lifelong learning and gamification. 
 
@@ -25,7 +25,7 @@ I also have experience in the following tools and technologies:
 More bullet points ..
 
 - 🔭 I’m currently working on creating a Java course program along with my [Javaci.net](https://github.com/javaci-net) group
-- 🌱 I’m currently learning : [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari)
+- 🌱 I’m currently learning following [topics](https://app.pluralsight.com/profile/ozkan-sari)
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - 💬 Ask me about Coding, Java Technologies, CS Fundamentals ...
 - 📫 How to reach me: [ozkansari.github.com](ozkansari.github.com)
