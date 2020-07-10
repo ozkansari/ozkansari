@@ -7,21 +7,6 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer** living in Istanbul, T
 - 📚 See my student profile on [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari) and [Hackerrank](https://www.hackerrank.com/ozkansari/) and [Topcoder](https://www.topcoder.com/members/ozkansari)
 - 🐦 See my [tweets](https://twitter.com/ozkan_sari)
 
-I have experience in designing and building highly available systems and adapting new technologies. I have 9 years of Payments Industry Experience.  I’m an Automation, Continuous Integration and Agile enthusiast. I believe in lifelong learning and gamification. 
-
-- 10+ years of experience in java based technologies with C++ background
-- Computer Engineering MSc Degree focused on Software Quality
-- Agile Project Management & Scrum Master experience
-- SAP Business Intelligence Administrator & Designer
-
-I also have experience in the following tools and technologies:
-- CI & Test Automation & Code Quality Tools installation, configuration and usage experience: Jenkins CI, SonarQube, JUnit, Selenium, JMeter, SoapUI, Gatling
-- Has experience in using well-known frameworks: JSF, Spring, Hibernate, Richfaces, Primefaces, jQuery, ExtJS
-- Software Project Management & Development Tools Experience: Maven, Nexus, SVN, Git
-- Database Technologies Experience: Oracle, mySQL, postgreSQL,SQL, PL/SQL
-- Others:  JIRA, SAP BusinessObjects, Apache SOLR, ElasticSearch, Kibana, Logstash, Grafana, RabbitMQ, ActiveMQ, Apache HTTP Server, Apache Tomcat
-- Some Important IDE & Software: Eclipse, Netbeans, Toad, Enterprise Architect 
-
 More bullet points ..
 
 - 🔭 I’m currently working on creating a Java course program along with my [Javaci.net](https://github.com/javaci-net) group
