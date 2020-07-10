@@ -22,6 +22,8 @@ I also have experience in the following tools and technologies:
 - Others:  JIRA, SAP BusinessObjects, Apache SOLR, ElasticSearch, Kibana, Logstash, Grafana, RabbitMQ, ActiveMQ, Apache HTTP Server, Apache Tomcat
 - Some Important IDE & Software: Eclipse, Netbeans, Toad, Enterprise Architect 
 
+More bullet points ..
+
 - 🔭 I’m currently working on creating a Java course program along with my [Javaci.net](https://github.com/javaci-net) group
 - 🌱 I’m currently learning : [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari)
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
