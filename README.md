@@ -7,7 +7,7 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer** living in Istanbul, T
 - 📚 See my learner profile on [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari) and [Hackerrank](https://www.hackerrank.com/ozkansari/) and [Topcoder](https://www.topcoder.com/members/ozkansari)
 - 🐦 See my [tweets](https://twitter.com/ozkan_sari)
 
-More bullet points ..
+More bullet points:
 
 - 🔭 I’m currently working on creating a Java course program along with my [Javaci.net](https://github.com/javaci-net) group
 - 🌱 I’m currently learning following [topics](https://app.pluralsight.com/profile/ozkan-sari)
