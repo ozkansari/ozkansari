@@ -1,6 +1,6 @@
 ### READ OZKANSARI
 
-Hello, this is **Ozkan Sari**. I'm a **software engineer** living in Istanbul, Turkey. I'm a Computer Engineering BSc and MSc graduate. I love software development. I'm interested in software quality, agile project management, java-based ☕ technologies and web development. In addition to working professionally, I teach "Advanced Java" and "Software Development Environment and Tools" in a University.
+Hello, this is **Ozkan Sari**. I'm a **software engineer** living in Istanbul, Turkey. I'm a Computer Engineering BSc and MSc graduate. I love software development. I'm interested in software quality, agile project management, java-based ☕ technologies and web development. In addition to working professionally, I teach *Advanced Java* and *Software Development Environment and Tools* in a University.
 
 - 💼 Check my Professional profile on [Linkedin](https://www.linkedin.com/in/ozkansari/)
 - 👷 View my developer profile on [Sourcerer](https://sourcerer.io/ozkansari) and [Codersrank](https://profile.codersrank.io/user/ozkansari)
