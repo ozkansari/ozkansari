@@ -9,7 +9,7 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer** living in Istanbul, T
 
 More bullet points:
 
-- 🔭 I’m currently working on creating a Java course program along with my [Javaci.net](https://github.com/javaci-net) group
+- 🔭 I’m currently working on creating a Java course program as part of the [Javaci.net](https://github.com/javaci-net) group
 - 🌱 I’m currently learning following [topics](https://app.pluralsight.com/profile/ozkan-sari)
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - 💬 Ask me about Coding, Java Technologies, CS Fundamentals ...
