@@ -13,6 +13,6 @@ More bullet points:
 - 🌱 I’m currently learning following [topics](https://app.pluralsight.com/profile/ozkan-sari)
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - 💬 Ask me about Coding, Java Technologies, CS Fundamentals ...
-- 📫 You can reach me on [ozkansari.github.com](ozkansari.github.com)
+- 📫 You can reach me on [https://ozkansari.github.com/](ozkansari.github.com)
 
 
