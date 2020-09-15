@@ -4,7 +4,7 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer** living in Istanbul, T
 
 - 💼 Check my professional profile on [Linkedin](https://www.linkedin.com/in/ozkansari/)
 - 👷 View my developer profile on [Sourcerer](https://sourcerer.io/ozkansari) and [Codersrank](https://profile.codersrank.io/user/ozkansari)
-- 📚 See my learner profile on [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari), [Coursera](https://www.coursera.org/user/2be002b95122d4c62d630e7c19bb8fb2) and [Hackerrank](https://www.hackerrank.com/ozkansari/) and [Topcoder](https://www.topcoder.com/members/ozkansari)
+- 📚 See my learner profile on [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari), [Coursera](https://www.coursera.org/user/2be002b95122d4c62d630e7c19bb8fb2), [Hackerrank](https://www.hackerrank.com/ozkansari/) and [Topcoder](https://www.topcoder.com/members/ozkansari)
 - 🐦 See my [tweets](https://twitter.com/ozkan_sari)
 
 More bullet points:
