@@ -16,3 +16,4 @@ More bullet points:
 - 📫 You can reach me on https://ozkansari.github.com/
 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
