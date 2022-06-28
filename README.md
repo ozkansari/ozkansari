@@ -3,7 +3,7 @@
 Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engineering BSc and MSc degrees. I love software development. I'm interested in software quality, agile project management, java-based ☕ technologies and web development. In addition to working professionally, I teach *Software Development Environment and Tools* as a part-time instructor in a University.
 
 - 💼 Check my professional profile on [Linkedin](https://www.linkedin.com/in/ozkansari/)
-- 👷 View my developer profile on [Sourcerer](https://sourcerer.io/ozkansari) and [Codersrank](https://profile.codersrank.io/user/ozkansari)
+- 👷 View my developer profile on [Codersrank](https://profile.codersrank.io/user/ozkansari) and [Sourcerer](https://sourcerer.io/ozkansari).
 - 📚 See my learner profile on [Pluralsight](https://app.pluralsight.com/profile/ozkan-sari), [Coursera](https://www.coursera.org/user/2be002b95122d4c62d630e7c19bb8fb2), [Hackerrank](https://www.hackerrank.com/ozkansari/) and [Topcoder](https://www.topcoder.com/members/ozkansari)
 - 🐦 See my [tweets](https://twitter.com/ozkan_sari)
 
