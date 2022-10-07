@@ -16,7 +16,7 @@
 
 [![Technologies](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [See tech stack details...](https://profile.codersrank.io/user/ozkansari)
 
