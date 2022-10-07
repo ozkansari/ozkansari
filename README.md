@@ -12,7 +12,7 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engi
 
 [![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
 
-[See more tech stack details ...](https://profile.codersrank.io/user/ozkansari)
+[See more tech stack details...](https://profile.codersrank.io/user/ozkansari)
 
 
 ### MORE
