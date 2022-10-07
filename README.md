@@ -15,5 +15,6 @@ More bullet points:
 - 💬 Ask me about Coding, Java Technologies, CS Fundamentals ...
 - 📫 You can reach me on https://ozkansari.github.com/
 
+### TECHNOLOGIES
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
