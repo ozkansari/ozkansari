@@ -18,3 +18,7 @@ More bullet points:
 ### TECHNOLOGIES
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tech Stack](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
+
+[See more](https://profile.codersrank.io/user/ozkansari#Technologies)
