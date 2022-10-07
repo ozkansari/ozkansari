@@ -1,4 +1,5 @@
 ### ABOUT ME
+---
 
 Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engineering BSc and MSc degrees. I love software development. I'm interested in software quality, agile project management, java-based ☕ technologies and web development. In addition to working professionally, I teach *Software Development Environment and Tools* as a part-time instructor in a University.
 
@@ -16,6 +17,7 @@ More bullet points:
 - 📫 You can reach me on https://ozkansari.github.com/
 
 ### BACKGROUND
+---
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
