@@ -8,7 +8,9 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engi
 
 [![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
 
-[![Tech Stack](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
+[![Language Overview](https://github.com/ozkansari/ozkansari/blob/master/lng.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Language%20overview)
+
+[![Technologies](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
