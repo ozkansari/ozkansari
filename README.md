@@ -12,10 +12,10 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engi
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[See more tech stack details...](https://profile.codersrank.io/user/ozkansari)
+[See tech stack details...](https://profile.codersrank.io/user/ozkansari)
 
 
-### MORE
+### MORE INFO
 ---
 
 - 💼 Check my professional profile on [Linkedin](https://www.linkedin.com/in/ozkansari/)
