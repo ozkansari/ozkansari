@@ -6,11 +6,11 @@ Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engi
 ### BACKGROUND
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
 
 [![Tech Stack](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
 
-[![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [See more tech stack details...](https://profile.codersrank.io/user/ozkansari)
 
