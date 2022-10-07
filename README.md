@@ -1,11 +1,11 @@
 ### ABOUT ME
 ---
 
-:sparkles: Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engineering BSc and MSc degrees. 
+:sparkles: Hello, this is **Ozkan**. I'm a **software engineer**, having Computer Engineering BSc and MSc degrees. 
 
 :technologist: I love software development. I'm into software quality, agile project management, java-based ☕ technologies and web development. 
 
-:necktie: In addition to working professionally, I teach *Software Development Environment and Tools* as a part-time instructor in a University.
+:necktie: Working for [Univrses](https://univrses.com/). Also teaching *Software Development Environment and Tools* as a part-time instructor in a University.
 
 ### TECH KNOWLEDGE OVERVIEW
 ---
