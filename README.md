@@ -22,7 +22,7 @@
 
 ### PROFESSIONAL EXPERIENCE
 
-[![Work](https://github.com/ozkansari/ozkansari/blob/master/work.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
+[![Work](https://github.com/ozkansari/ozkansari/blob/master/work_experiences.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
 
 ---
 
