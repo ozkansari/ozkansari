@@ -26,6 +26,7 @@
 
 [![Work Extra](https://github.com/ozkansari/ozkansari/blob/master/work_extra.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
 
+[See more work experience...](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
 ---
 
 
