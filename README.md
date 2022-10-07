@@ -3,7 +3,7 @@
 
 Hello, this is **Ozkan Sari**. I'm a **software engineer**, having Computer Engineering BSc and MSc degrees. I love software development. I'm interested in software quality, agile project management, java-based ☕ technologies and web development. In addition to working professionally, I teach *Software Development Environment and Tools* as a part-time instructor in a University.
 
-### BACKGROUND
+### TECH KNOWLEDGE OVERVIEW
 ---
 
 [![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
