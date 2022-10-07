@@ -21,4 +21,6 @@ More bullet points:
 
 [![Tech Stack](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
 
-[See more](https://profile.codersrank.io/user/ozkansari#Technologies)
+[![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
+
+[See more](https://profile.codersrank.io/user/ozkansari)
