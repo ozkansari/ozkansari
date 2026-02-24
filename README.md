@@ -12,7 +12,7 @@
 
 [![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
 
-[![Language Overview](https://github.com/ozkansari/ozkansari/blob/master/lng.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Language%20overview)
+[![Language Overview](https://raw.githubusercontent.com/ozkansari/ozkansari/refs/heads/master/lng.png)](https://profile.codersrank.io/user/ozkansari#Language%20overview)
 
 [![Technologies](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
 
