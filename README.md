@@ -7,7 +7,7 @@
 
 :necktie: Working for [Univrses](https://univrses.com/). Also teaching *Software Development Environment and Tools* as a part-time instructor in a University.
  
-📃 [My CV](https://github.com/ozkansari/ozkansari/blob/master/ozkan-sari-cv%20(2026).pdf?raw=true)
+📃 [My CV](https://github.com/ozkansari/ozkansari/blob/d67835f3037cdabff036c97bfe8d6d18ad6b44dc/ozkan-sari-cv%20(2026).pdf)
 
 ### TECH KNOWLEDGE OVERVIEW
 ---
