@@ -6,6 +6,8 @@
 :technologist: I love software development. I'm into software quality, agile project management, java-based ☕ technologies and web development. 
 
 :necktie: Working for [Univrses](https://univrses.com/). Also teaching *Software Development Environment and Tools* as a part-time instructor in a University.
+ 
+📃 [My CV](https://github.com/ozkansari/ozkansari/blob/master/ozkan-sari-cv%20(2026).pdf)
 
 ### TECH KNOWLEDGE OVERVIEW
 ---
