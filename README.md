@@ -10,19 +10,17 @@
 ### TECH KNOWLEDGE OVERVIEW
 ---
 
-[![Timeline](https://github.com/ozkansari/ozkansari/blob/master/timeline.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Timeline)
+[![Timeline](https://raw.githubusercontent.com/ozkansari/ozkansari/refs/heads/master/timeline.png)](https://profile.codersrank.io/user/ozkansari#Timeline)
 
 [![Language Overview](https://raw.githubusercontent.com/ozkansari/ozkansari/refs/heads/master/lng.png)](https://profile.codersrank.io/user/ozkansari#Language%20overview)
 
-[![Technologies](https://github.com/ozkansari/ozkansari/blob/master/tech.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Technologies)
+[![Technologies](https://raw.githubusercontent.com/ozkansari/ozkansari/refs/heads/master/tech.png)](https://profile.codersrank.io/user/ozkansari#Technologies)
 
 ### PROFESSIONAL EXPERIENCE
 
-[![Work](https://github.com/ozkansari/ozkansari/blob/master/work.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
+[![Work](https://raw.githubusercontent.com/ozkansari/ozkansari/refs/heads/master/work.png)](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
 
-[![Work Extra](https://github.com/ozkansari/ozkansari/blob/master/work_extra.png?raw=true)](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
-
->  [See more work experience...](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
+[![Work Extra](https://raw.githubusercontent.com/ozkansari/ozkansari/refs/heads/master/work_extra.png)](https://profile.codersrank.io/user/ozkansari#Work%20Experiences)
 
 ### MORE INFO
 ---
